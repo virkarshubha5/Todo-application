@@ -1,0 +1,31 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "password": 1234,
+        "task": [
+          {
+            "name": "creating to do project",
+            "priority": "high",
+            "status": "done"
+          }
+  
+        ]
+      },
+      {
+        "name": "aa",
+        "email": "Shubha@gmail.com",
+        "password": "aa",
+        "id": 2,
+        "task": [
+          {
+            "name": "creating rest api",
+            "priority": "medium",
+            "status": "pending"
+          }
+        ]
+      }
+    ]
+  }
